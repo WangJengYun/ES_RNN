@@ -1,0 +1,44 @@
+2020-02-16 11:20:40 - main INFO Start to read data 
+
+2020-02-16 11:20:41 - main INFO Start to read data 
+
+2020-02-16 11:20:46 - read_data INFO train_data = (4227,)
+2020-02-16 11:20:46 - read_data INFO test_data = (4227, 14)
+2020-02-16 11:20:46 - read_data INFO test_data = (4227, 14)
+
+2020-02-16 11:20:46 - main INFO end to read data 
+
+2020-02-16 11:20:46 - main INFO Start to read data 
+
+2020-02-16 11:20:46 - main INFO Start to read data 
+
+2020-02-16 11:20:46 - read_data INFO train_data = (4227,)
+2020-02-16 11:20:46 - read_data INFO test_data = (4227, 14)
+2020-02-16 11:20:46 - read_data INFO test_data = (4227, 14)
+
+2020-02-16 11:20:46 - main INFO end to read data 
+
+2020-02-16 11:20:51 - read_data INFO train_data = (4227,)
+2020-02-16 11:20:51 - read_data INFO test_data = (4227, 14)
+2020-02-16 11:20:51 - read_data INFO test_data = (4227, 14)
+
+2020-02-16 11:20:51 - main INFO end to read data 
+
+2020-02-16 11:20:51 - main INFO end to read data 
+
+2020-02-16 11:20:51 - main INFO Start to read data 
+
+2020-02-16 11:20:51 - main INFO Start to read data 
+
+2020-02-16 11:20:51 - main INFO Start to read data 
+
+2020-02-16 11:20:56 - read_data INFO train_data = (4227,)
+2020-02-16 11:20:56 - read_data INFO test_data = (4227, 14)
+2020-02-16 11:20:56 - read_data INFO test_data = (4227, 14)
+
+2020-02-16 11:20:56 - main INFO end to read data 
+
+2020-02-16 11:20:56 - main INFO end to read data 
+
+2020-02-16 11:20:56 - main INFO end to read data 
+

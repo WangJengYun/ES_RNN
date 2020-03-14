@@ -1,0 +1,8 @@
+2020-02-16 15:46:44 - main INFO Start to read data 
+
+2020-02-16 15:46:49 - read_data INFO train_data = (4227,)
+2020-02-16 15:46:49 - read_data INFO test_data = (4227, 14)
+2020-02-16 15:46:49 - read_data INFO val_data = (4227, 14)
+
+2020-02-16 15:46:49 - main INFO end to read data 
+

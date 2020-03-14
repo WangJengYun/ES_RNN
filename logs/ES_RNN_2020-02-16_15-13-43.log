@@ -1,0 +1,26 @@
+2020-02-16 15:13:43 - main INFO Start to read data 
+
+2020-02-16 15:13:48 - read_data INFO train_data = (4227,)
+2020-02-16 15:13:48 - read_data INFO test_data = (4227, 14)
+2020-02-16 15:13:48 - read_data INFO val_data = (4227, 14)
+
+2020-02-16 15:13:48 - main INFO end to read data 
+
+2020-02-16 15:13:50 - data_loading INFO train_berfor_chop = 4227
+2020-02-16 15:13:50 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:32:28 - data_loading INFO train_berfor_chop = 4227
+2020-02-16 15:32:28 - data_loading INFO train_berfor_chop = 4227
+2020-02-16 15:32:28 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:32:28 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:32:38 - data_loading INFO train_berfor_chop = 3934
+2020-02-16 15:32:38 - data_loading INFO train_berfor_chop = 3934
+2020-02-16 15:32:38 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:32:38 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:32:39 - data_loading INFO train_berfor_chop = 3934
+2020-02-16 15:32:39 - data_loading INFO train_berfor_chop = 3934
+2020-02-16 15:32:39 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:32:39 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:37:29 - data_loading INFO train_berfor_chop = 4227
+2020-02-16 15:37:29 - data_loading INFO train_berfor_chop = 4227
+2020-02-16 15:37:29 - data_loading INFO train_after_chop = 3934
+2020-02-16 15:37:29 - data_loading INFO train_after_chop = 3934
